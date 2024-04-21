@@ -1,0 +1,8 @@
+﻿  matrix_tool.cpp
+C:\Users\moder\source\repos\git\showthrough_removal\showthrough_removal\showthrough_removal\matrix_tool.cpp(3,10): fatal error C1083: include ファイルを開けません。'opencv2/opencv.hpp':No such file or directory
+  Member.cpp
+C:\Users\moder\source\repos\git\showthrough_removal\showthrough_removal\showthrough_removal\Member.cpp(37,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\moder\source\repos\git\showthrough_removal\showthrough_removal\showthrough_removal\Member.cpp(50,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\moder\source\repos\git\showthrough_removal\showthrough_removal\showthrough_removal\Member.cpp(54,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  showthrough_removal.cpp
+  コードを生成中...

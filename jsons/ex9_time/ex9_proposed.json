@@ -1,0 +1,40 @@
+{
+ "add_title": "ex9_time/proposed",
+ "method": "minrank",
+ "mode": "simulation",
+ "num_of_input_images": 2,
+ "original_image_name": [
+  "in_im/im_sim1_1_258.bmp",
+  "in_im/im_sim1_2_258.bmp"
+ ],
+ "image_height": 256,
+ "image_width": 256,
+ "before_convolution_image_height": 258,
+ "before_convolution_image_width": 258,
+ "real_kernel_height": 3,
+ "real_kernel_width": 3,
+ "estimated_kernel_height": 5,
+ "estimated_kernel_width": 5,
+ "gaussian_params": [
+  1.0
+ ],
+ "prox_mode": "APG",
+ "threshold_method": "SVP",
+ "soft_thresh_val": 2,
+ "save_img": 1,
+ "save_img_format": "png",
+ "img_save_iteration": 200,
+ "log_save_iteration": 200,
+ "num_of_iteration": 200,
+ "date_norm_param": 1.0,
+
+ "smoothing_term_param": 2.5,
+ "step_size": 0.05,
+
+ "alpha_rate": 0.1,
+
+
+ "enable_input_round_off": 1,
+ "enable_output_round_off": 1,
+ "enable_u8_clamp": 1
+}
