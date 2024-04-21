@@ -1,0 +1,77 @@
+﻿  initialize.cpp
+  matrix_tool.cpp
+C:\openCVc\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(17,63): warning C4244: '引数': 'Eigen::Index' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(17,51): warning C4244: '引数': 'Eigen::Index' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(25,43): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=unsigned char
+          ]
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(32,51): warning C4244: '引数': 'Eigen::EigenBase<Derived>::Index' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              Derived=Eigen::Matrix<float,-1,1,0,-1,1>
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(39,42): warning C4244: '=': 'float' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=unsigned char
+          ]
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(66,40): warning C4244: '初期化中': 'Eigen::Index' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(66,30): warning C4244: '初期化中': 'Eigen::Index' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(67,41): warning C4244: '初期化中': 'Eigen::Index' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(67,31): warning C4244: '初期化中': 'Eigen::Index' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(89,28): warning C4244: '初期化中': 'Eigen::Index' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(89,18): warning C4244: '初期化中': 'Eigen::Index' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(90,29): warning C4244: '初期化中': 'Eigen::Index' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(90,19): warning C4244: '初期化中': 'Eigen::Index' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(184,16): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(266,34): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(284,17): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(296,84): warning C4244: '引数': 'Eigen::Index' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\matrix_tool.cpp(296,59): warning C4244: '引数': 'Eigen::Index' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+  Member.cpp
+  minrank_method.cpp
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(169,186): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(173,108): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(195,22): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(200,24): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(205,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(223,22): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(228,24): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\minrank_method.cpp(233,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  mytool.cpp
+C:\openCVc\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  nmf_method.cpp
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\nmf_method.cpp(73,17): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\nmf_method.cpp(75,78): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\showthrough_removal\nmf_method.cpp(76,75): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  sharma_method.cpp
+  showthrough_removal.cpp
+  コード生成しています。
+  7951 of 7977 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  showthrough_removal.vcxproj -> C:\Users\moder\source\repos\git\Show-through_removal_with_sparsity-based_blind_deconvolution\x64\Release\showthrough_removal.exe
